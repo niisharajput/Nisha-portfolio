@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/niisharajput/Nisha-portfolio.github.io.git/static/css/main.b8386b49.css",
-    "main.js": "/niisharajput/Nisha-portfolio.github.io.git/static/js/main.f9c8ee21.js",
-    "static/js/787.5649b3cb.chunk.js": "/niisharajput/Nisha-portfolio.github.io.git/static/js/787.5649b3cb.chunk.js",
-    "static/media/leaf.png": "/niisharajput/Nisha-portfolio.github.io.git/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/codeEditor.png": "/niisharajput/Nisha-portfolio.github.io.git/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/niisharajput/Nisha-portfolio.github.io.git/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/niisharajput/Nisha-portfolio.github.io.git/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/niisharajput/Nisha-portfolio.github.io.git/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/niisharajput/Nisha-portfolio.github.io.git/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/niisharajput/Nisha-portfolio.github.io.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/niisharajput/Nisha-portfolio.github.io.git/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/niisharajput/Nisha-portfolio.github.io.git/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/niisharajput/Nisha-portfolio.github.io.git/index.html",
-    "main.b8386b49.css.map": "/niisharajput/Nisha-portfolio.github.io.git/static/css/main.b8386b49.css.map",
-    "main.f9c8ee21.js.map": "/niisharajput/Nisha-portfolio.github.io.git/static/js/main.f9c8ee21.js.map",
-    "787.5649b3cb.chunk.js.map": "/niisharajput/Nisha-portfolio.github.io.git/static/js/787.5649b3cb.chunk.js.map"
+    "main.css": "/niisharajput/niisharajput.github.io.git/static/css/main.ca3616d4.css",
+    "main.js": "/niisharajput/niisharajput.github.io.git/static/js/main.d4649f5a.js",
+    "static/js/787.5649b3cb.chunk.js": "/niisharajput/niisharajput.github.io.git/static/js/787.5649b3cb.chunk.js",
+    "static/media/leaf.png": "/niisharajput/niisharajput.github.io.git/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/codeEditor.png": "/niisharajput/niisharajput.github.io.git/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/niisharajput/niisharajput.github.io.git/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/niisharajput/niisharajput.github.io.git/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/niisharajput/niisharajput.github.io.git/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/niisharajput/niisharajput.github.io.git/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/niisharajput/niisharajput.github.io.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/niisharajput/niisharajput.github.io.git/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/niisharajput/niisharajput.github.io.git/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/niisharajput/niisharajput.github.io.git/index.html",
+    "main.ca3616d4.css.map": "/niisharajput/niisharajput.github.io.git/static/css/main.ca3616d4.css.map",
+    "main.d4649f5a.js.map": "/niisharajput/niisharajput.github.io.git/static/js/main.d4649f5a.js.map",
+    "787.5649b3cb.chunk.js.map": "/niisharajput/niisharajput.github.io.git/static/js/787.5649b3cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8386b49.css",
-    "static/js/main.f9c8ee21.js"
+    "static/css/main.ca3616d4.css",
+    "static/js/main.d4649f5a.js"
   ]
 }
